@@ -11,3 +11,4 @@ It does the following tasks picked at random:
 
 # In Action
 
+![UI](https://github.com/amogh94/fun-extension/blob/master/ui.JPG "UI")
