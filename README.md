@@ -7,7 +7,7 @@ It does the following tasks picked at random:
 - Closes the first tab
 - Closes a random tab
 - Shuffle tabs
-- Open a random page from you browsing history
+- Open a random page from your browsing history
 
 # In Action
 
